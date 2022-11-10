@@ -4,3 +4,8 @@ scikit-learn == 1.1.2
 Werkzeug == 2.0.3
 jupyter == 6.4.8
 jupyterlab == 3.3.2
+opendatasets==0.0.105
+matplotlib == 3.6.2
+seaborn
+plotly
+pickle
