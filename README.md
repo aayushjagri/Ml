@@ -9,4 +9,4 @@ With thousands of individual managers predicting sales based on their unique cir
 View and download the data here: https://www.kaggle.com/c/rossmann-store-sales/data
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aayushjagri/Ml/tree/main/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aayushjagri/Ml/main)
