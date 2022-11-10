@@ -7,3 +7,6 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied. You are provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the "Sales" column for the test set. Note that some stores in the dataset were temporarily closed for refurbishment.
 
 View and download the data here: https://www.kaggle.com/c/rossmann-store-sales/data
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aayushjagri/Ml/tree/main/main)
