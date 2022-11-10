@@ -8,4 +8,4 @@ opendatasets
 matplotlib 
 seaborn
 plotly
-pickle
+pickle5
