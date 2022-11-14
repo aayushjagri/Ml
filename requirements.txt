@@ -10,3 +10,4 @@ seaborn
 plotly
 pickle5
 parquet
+XGBoost
