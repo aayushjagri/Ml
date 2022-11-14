@@ -11,3 +11,4 @@ plotly
 pickle5
 parquet
 XGBoost
+graphviz
